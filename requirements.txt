@@ -1,10 +1,12 @@
 ehforwarderbot
 efb-telegram-master
 efb-telegram-master[tgs]
+efb-mp-instantview-middleware
+efb-msg_blocker-middleware
+python-telegram-bot[socks]
 git+https://github.com/milkice233/efb-qq-plugin-mirai#egg=efb-qq-plugin-mirai
 git+https://github.com/XYenon/efb-qq-plugin-go-cqhttp#egg=efb-qq-plugin-go-cqhttp
 git+https://github.com/xzsk2/efb-filter-middleware#egg=efb-filter-middleware
 git+https://github.com/0honus0/python-CuteCat-iHttp#egg=python-CuteCat-iHttp
 git+https://github.com/0honus0/efb-wechat-cutecat-slave#egg=efb-wechat-cutecat-slave
-python-telegram-bot[socks]
 emoji==1.7.0
