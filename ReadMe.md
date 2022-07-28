@@ -1,6 +1,6 @@
 # EFB-Docker
 
-[![Docker](https://img.shields.io/docker/cloud/automated/xzsk2/gocqhttp-docker)](https://hub.docker.com/repository/docker/xzsk2/efb-docker)
+[![CI to Docker Hub](https://github.com/Apocalypsor/EFB-Docker/actions/workflows/docker-image.yml/badge.svg)](https://github.com/Apocalypsor/EFB-Docker/actions/workflows/docker-image.yml)
 
 **[TG-EFB-QQ-Docker](https://github.com/xzsk2/TG-EFB-QQ-Docker) 的 Telegram 端仓库**
 
