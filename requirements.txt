@@ -13,4 +13,9 @@ git+https://github.com/iaurman/efb-voice_recog-middleware#egg=efb-voice_recog-mi
 git+https://github.com/QQ-War/efb-keyword-reply#egg=efb-keyword-reply
 git+https://github.com/0honus0/python-CuteCat-iHttp#egg=python-CuteCat-iHttp
 git+https://github.com/0honus0/efb-wechat-cutecat-slave#egg=efb-wechat-cutecat-slave
+git+https://github.com/0honus0/python-comwechatrobot-http#egg=python-comwechatrobot-http
+git+https://github.com/0honus0/efb-wechat-comwechat-slave#egg=efb-wechat-comwechat-slave
+
 emoji==1.7.0
+lottie
+cairosvg
