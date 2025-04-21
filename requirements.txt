@@ -1,17 +1,22 @@
 ehforwarderbot==2.1.1
+
+# Telegram
 git+https://github.com/jiz4oh/efb-telegram-master.git
 python-telegram-bot[socks]
+
+# WeChat
 git+https://github.com/ehForwarderBot/efb-wechat-slave#egg=efb-wechat-slave
-git+https://github.com/shejialuo/efb-qq-plugin-napcat.git#egg=efb-qq-plugin-napcat
+git+https://github.com/0honus0/python-comwechatrobot-http#egg=python-comwechatrobot-http
+git+https://github.com/0honus0/efb-wechat-comwechat-slave#egg=efb-wechat-comwechat-slave
+
+# QQ
 git+https://github.com/ehForwarderBot/efb-qq-plugin-go-cqhttp#egg=efb-qq-plugin-go-cqhttp
+
+# Plugins
 git+https://github.com/xzsk2/efb-filter-middleware#egg=efb-filter-middleware
 git+https://github.com/iaurman/efb-msg-filter#egg=efb-msg-filter
 git+https://github.com/iaurman/efb-voice_recog-middleware#egg=efb-voice_recog-middleware
 git+https://github.com/QQ-War/efb-keyword-reply#egg=efb-keyword-reply
-git+https://github.com/0honus0/python-CuteCat-iHttp#egg=python-CuteCat-iHttp
-git+https://github.com/0honus0/efb-wechat-cutecat-slave#egg=efb-wechat-cutecat-slave
-git+https://github.com/0honus0/python-comwechatrobot-http#egg=python-comwechatrobot-http
-git+https://github.com/0honus0/efb-wechat-comwechat-slave#egg=efb-wechat-comwechat-slave
 
 emoji==1.7.0
 lottie
