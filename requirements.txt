@@ -1,10 +1,8 @@
 ehforwarderbot
-efb-telegram-master
-efb-telegram-master[tgs]
-efb-mp-instantview-middleware
-efb-msg_blocker-middleware
+git+https://github.com/jiz4oh/efb-telegram-master.git
 python-telegram-bot[socks]
 git+https://github.com/ehForwarderBot/efb-wechat-slave#egg=efb-wechat-slave
+git+https://github.com/shejialuo/efb-qq-plugin-napcat.git#egg=efb_qq_plugin_napcat
 git+https://github.com/milkice233/efb-qq-plugin-mirai#egg=efb-qq-plugin-mirai
 git+https://github.com/XYenon/efb-qq-plugin-go-cqhttp#egg=efb-qq-plugin-go-cqhttp
 git+https://github.com/xzsk2/efb-filter-middleware#egg=efb-filter-middleware
@@ -15,7 +13,6 @@ git+https://github.com/0honus0/python-CuteCat-iHttp#egg=python-CuteCat-iHttp
 git+https://github.com/0honus0/efb-wechat-cutecat-slave#egg=efb-wechat-cutecat-slave
 git+https://github.com/0honus0/python-comwechatrobot-http#egg=python-comwechatrobot-http
 git+https://github.com/0honus0/efb-wechat-comwechat-slave#egg=efb-wechat-comwechat-slave
-git+https://github.com/shejialuo/efb-qq-plugin-napcat.git#egg=efb_qq_plugin_napcat
 
 emoji==1.7.0
 lottie
