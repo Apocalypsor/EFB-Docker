@@ -17,6 +17,8 @@ jobs:
       contents: read
       packages: write
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
       - name: Github Docker Login
         uses: docker/login-action@v3
         with:
