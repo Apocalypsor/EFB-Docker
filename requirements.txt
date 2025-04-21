@@ -19,5 +19,6 @@ git+https://github.com/iaurman/efb-voice_recog-middleware#egg=efb-voice_recog-mi
 git+https://github.com/QQ-War/efb-keyword-reply#egg=efb-keyword-reply
 
 emoji==1.7.0
+Werkzeug==2.3.8
 lottie
 cairosvg
