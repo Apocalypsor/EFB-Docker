@@ -2,9 +2,7 @@ ehforwarderbot
 git+https://github.com/jiz4oh/efb-telegram-master.git
 python-telegram-bot[socks]
 git+https://github.com/ehForwarderBot/efb-wechat-slave#egg=efb-wechat-slave
-git+https://github.com/shejialuo/efb-qq-plugin-napcat.git#egg=efb_qq_plugin_napcat
-git+https://github.com/milkice233/efb-qq-plugin-mirai#egg=efb-qq-plugin-mirai
-git+https://github.com/XYenon/efb-qq-plugin-go-cqhttp#egg=efb-qq-plugin-go-cqhttp
+git+https://github.com/shejialuo/efb-qq-plugin-napcat.git#egg=efb-qq-plugin-napcat
 git+https://github.com/xzsk2/efb-filter-middleware#egg=efb-filter-middleware
 git+https://github.com/iaurman/efb-msg-filter#egg=efb-msg-filter
 git+https://github.com/iaurman/efb-voice_recog-middleware#egg=efb-voice_recog-middleware
